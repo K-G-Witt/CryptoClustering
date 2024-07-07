@@ -20,6 +20,6 @@ You may need to install the **scikit-learn** and **hvPlot** packages before comm
 
 ## Usage Instructions:
 This repo contains the following:
-1. **crypto_market_data.csv:** data on percentage change in trading prices over 24 hour, 7 day, 14 day, 30 day, 60 day, 200 day, and 1 year intervals for 41 different crypto currencies. 
-
-![image](https://github.com/K-G-Witt/CryptoClustering/assets/156146173/68c0613a-581b-41a3-83d8-78d771a61899)
+1. **crypto_market_data.csv:** data on percentage change in trading prices over 24 hour, 7 day, 14 day, 30 day, 60 day, 200 day, and 1 year intervals for 41 different crypto currencies, and
+2. 
+3. 
