@@ -34,3 +34,10 @@ Executing the script provided in the **Crypto_Clustering.ipynb** file will:
 9. Create an elbow plot to visually represent the optimal number of data clusters for based on the PCA;
 10. Initalise a k-means clustering model based on the optimal number of data clusters identified from the elbow plot based on the PCA;
 11. Predict class membership and produce a plot of cryptocurrencies based on the PCA predictions.
+
+
+## Credits:
+This code was compiled and written by me for the CryptoClustering challenge project in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
+
+### Creating composite plots using the '+' function:
+https://hvplot.holoviz.org/user_guide/Plotting.html (accessed 7 July 2024).
